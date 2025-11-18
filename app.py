@@ -93,4 +93,3 @@ if actualizar:
         st.warning("No hay datos de MPU6050 para las fechas seleccionadas.")
 else:
     st.info("Seleccione la fecha y presione 'Actualizar datos'.")
-
